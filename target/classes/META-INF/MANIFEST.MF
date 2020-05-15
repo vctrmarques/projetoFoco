@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: projetoFoco
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Joao Vitor
+Implementation-Vendor-Id: joao.io
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/projetoFoco/
+Created-By: Maven Integration for Eclipse
+
