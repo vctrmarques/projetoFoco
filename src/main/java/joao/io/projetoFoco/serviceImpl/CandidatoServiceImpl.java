@@ -63,7 +63,7 @@ public class CandidatoServiceImpl implements CandidatoService{
 	public List<Candidato> buscarTodos() throws CandidatoException{
 		try {
 			List<Candidato> lstCandidato = new ArrayList<Candidato>();
-			Iterable<Candidato> it = cancidatoRepository.buscarTodosCandidatos();
+			Iterable<Candidato> it = cancidatoRepository.findAll();
 			for (Candidato Candidato: it) {
 				lstCandidato.add(Candidato);
 			}

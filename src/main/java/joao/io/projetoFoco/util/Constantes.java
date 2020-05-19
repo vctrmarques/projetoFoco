@@ -9,6 +9,7 @@ public class Constantes {
 	
 	public interface Url{
 		public static final String URL_CANDIDATO = "/candidato";
+		public static final String EMAIL_SEND = "/email-send";
 		public static final String URL_LIMPAR_CANDIDATO = "/candidato/limpar";
 	}
 }
